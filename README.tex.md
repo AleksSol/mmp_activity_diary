@@ -15,7 +15,8 @@ https://arxiv.org/abs/1904.09751
 
 
 
-$$P("know" | "I don't") < P("know" | "I don't know. I don't") < P("know" | "I don't know. I don't know. I don't")$$
+$$P("know" | "\text{I don't}") < P("know" | "\text{I don't know. I don't}") < 
+P("know" | "\text{I don't know. I don't know. I don't}")$$
 
 * Разница между распределениями написанного людьми текста и сгенерированного машинного &mdash; существенна. Машинная генерация очень редко уходит в "области с низкой вероятностью" гораздо чаще концентрируясь в самых частотных словах.
 
