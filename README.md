@@ -15,7 +15,7 @@ https://arxiv.org/abs/1904.09751
 
 
 
-<p align="center"><img src="/tex/6a4a87fc690f892f93d1e1f6e34b3b66.svg?invert_in_darkmode&sanitize=true" align=middle width=754.1855211pt height=17.2895712pt/></p>
+<p align="center"><img src="/tex/5c03219449f920c02d3648a2148a0968.svg?invert_in_darkmode&sanitize=true" align=middle width=807.9296609999999pt height=16.438356pt/></p>
 
 * Разница между распределениями написанного людьми текста и сгенерированного машинного &mdash; существенна. Машинная генерация очень редко уходит в "области с низкой вероятностью" гораздо чаще концентрируясь в самых частотных словах.
 
