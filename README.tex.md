@@ -38,3 +38,5 @@ $$P("know" | "I don't") < P("know" | "I don't know. I don't") < P("know" | "I do
 
 ![Распределения](images/deg_results_authors) 
  
+ 
+ 
